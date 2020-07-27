@@ -39,7 +39,7 @@ func main() {
 	buf.WriteString("\n\n")
 	cstSh, _ := time.LoadLocation("Asia/Shanghai")
 	updated := time.Now().In(cstSh).Format("2006-01-02 15:04:05")
-	buf.WriteString("### 我的近期动态\n\n⭐️ Star [个人主页](https://github.com/" + githubUserName + "/" + githubUserName + ") 后会自动更新，最近更新时间：`" + updated + "`\n\n📝")
+	buf.WriteString("### 我的近期动态\n\n⭐️ Star [个人主页](https://github.com/" + githubUserName + "/" + githubUserName + ") 后会自动更新，最近更新时间：`" + updated + "`\n\n")
 	for k, v := range res {
 		if k > max {
 			break
@@ -49,7 +49,7 @@ func main() {
 		//comma := strings.Split(v.Contents, ".")
 		//content := comma[0]
 		//buf.WriteString("* " + " [" + title + "](" + url + ")\n\n" + "  > " + content + "\n")
-		buf.WriteString("* " + " [" + title + "](" + url + ")\n\n" + " \n")
+		buf.WriteString("📝 * " + " [" + title + "](" + url + ")\n\n" + " \n")
 	}
 	buf.WriteString("\n\n")
 

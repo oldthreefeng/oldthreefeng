@@ -26,7 +26,7 @@ type Blogs []struct {
 
 var (
 	githubUserName = "oldthreefeng"
-	max            = 10
+	max            = 5
 )
 
 func main() {

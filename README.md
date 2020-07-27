@@ -6,7 +6,7 @@
 
 ### 我的近期动态
 
-⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-07-27 15:09:21`
+⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-07-27 15:13:57`
 
 📝*  [sealos 一键安装 kubernetes1.18.0](https://www.fenghong.tech/blog/kubernetes/sealos-install/)
 
@@ -38,29 +38,6 @@ $ hostnamectl set-hostname k8s-master # 将 master 替换为当前主机名 $ ca
  在创建好kubernetes集群后， 内网访问便是稀松平常的事情。 由于使用了http_proxy代理，但是未设置no_proxy导致各种错误。为什么设置代理，因为 github头像老是不显示。
  排查思路 内网的另外一台主机(这台主机用的是provixy代理)使用curl命令进行排查，查看集群version信息，没有任何异常返回200。
 $ curl -ik https://apiserver
-*  [kuberbetes ingress ssl证书配置](https://www.fenghong.tech/blog/kubernetes/kubernetes-ingress-ssl/)
-
-  > [TOC]
- 可以直接在 Ingress 中配置 HTTPS 证书，使得你的网站支持 HTTPS 协议。
-使用openssl创建自用证书或使用acme创建免费的证书
-*  [vim-go插件安装](https://www.fenghong.tech/blog/go/go-vim/)
-
-  > [TOC]
-前言  vim是linux系统下常用的代码编辑器，默认情况下不支持go的代码高亮和语法检查，不过可以通过安装vim插件来支持go的开发 Vim-go是当前使用最为广泛的用于搭建Golang开发环境的vim插件，这里我同样使用vim-go作为核心和基础进行环境搭建的。vim-go利 用开源Vim插件管理器安装，gmarik/Vundle
-*  [git-rebase合并多commit记录](https://www.fenghong.tech/blog/ops/git-rebase/)
-
-  > [toc]
-新建测试仓库 为了不破坏现有的仓库，我们首先创建一个新建一个实验repo，所有操作都在该仓库下操作。创建命令如下：
-$ mkdir rebase-repo $ cd rebase-repo $ git init rebase-repo $ git commit --allow-empty -m &quot;init&quot; $ git remote add origin git@code
-*  [记一次curl版本yum升级至7.71.0](https://www.fenghong.tech/blog/ops/curl-data-raw/)
-
-  > [TOC]
-背景  偶然有一次机会使用到了curl 命令行中 --data-raw 选项， 但是提示是curl: option --data-raw: is unknown, 网上查询了蛮多， 也没有写什么解决方案，估摸着是版本太低的缘故。
- 目前的centos 7 的yum仓库版本, 最新版应该到了 7
-*  [jenkins+java+docker+kubernetes实现自动化部署](https://www.fenghong.tech/blog/ops/jenkins-java-docker-kubernetes/)
-
-  > [TOC]
-背景  基于springboot项目, 部署在kubernetes集群, 并实现自动化构建部署
 
 
 <!--events end -->

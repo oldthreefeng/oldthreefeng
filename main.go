@@ -8,7 +8,6 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
-	"strings"
 	"time"
 )
 
@@ -47,9 +46,10 @@ func main() {
 		}
 		url := v.Permalink
 		title := v.Title
-		comma := strings.Split(v.Contents, ".")
-		content := comma[0]
-		buf.WriteString("* " + " [" + title + "](" + url + ")\n\n" + "  > " + content + "\n")
+		//comma := strings.Split(v.Contents, ".")
+		//content := comma[0]
+		//buf.WriteString("* " + " [" + title + "](" + url + ")\n\n" + "  > " + content + "\n")
+		buf.WriteString("* " + " [" + title + "](" + url + ")\n\n" + " \n")
 	}
 	buf.WriteString("\n\n")
 

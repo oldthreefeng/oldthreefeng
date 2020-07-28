@@ -15,9 +15,12 @@ Currently working on [JUNHSUE](https://www.junhsue.com/) Read [my blog](https://
 
 ### 我的近期动态
 
-⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-07-27 16:41:17`
+⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-07-29 00:01:22`
 
 📝 *  [sealos 一键安装 kubernetes1.18.0](https://www.fenghong.tech/blog/kubernetes/sealos-install/)
+
+ 
+📝 *  [kuberbetes traefik简单应用](https://www.fenghong.tech/blog/kubernetes/kubernetes-traefik/)
 
  
 📝 *  [github个人信息展示](https://www.fenghong.tech/blog/technology/github-profile/)
@@ -30,9 +33,6 @@ Currently working on [JUNHSUE](https://www.junhsue.com/) Read [my blog](https://
 
  
 📝 *  [阿里云日志方案说明](https://www.fenghong.tech/blog/ops/log-for-aliyun/)
-
- 
-📝 *  [frp内网穿透http获取客户端真实ip](https://www.fenghong.tech/blog/ops/frp-get-realip/)
 
  
 

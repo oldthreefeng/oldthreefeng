@@ -3,6 +3,7 @@ package main
 import (
 	"bytes"
 	"crypto/tls"
+	"encoding/json"
 	"fmt"
 	"github.com/parnurzeal/gorequest"
 	"io/ioutil"
@@ -26,14 +27,19 @@ type Blogs []struct {
 var (
 	githubUserName = "oldthreefeng"
 	max            = 5
+	path           = "/www/index.json"
+	data           []byte
 )
 
 func main() {
 	res := make([]blog, 0)
-	response, data, errs := gorequest.New().TLSClientConfig(&tls.Config{InsecureSkipVerify: true}).
-		Get("https://www.fenghong.tech/index.json").EndStruct(&res)
-	if errs != nil || http.StatusOK != response.StatusCode {
-		log.Fatal(errs, data)
+	res, err := ReadJsonFromFile(path)
+	if err != nil {
+		response, data, errs := gorequest.New().TLSClientConfig(&tls.Config{InsecureSkipVerify: true}).
+			Get("https://www.fenghong.tech/index.json").EndStruct(&res)
+		if errs != nil || http.StatusOK != response.StatusCode {
+			log.Fatal(errs, data)
+		}
 	}
 	buf := &bytes.Buffer{}
 	buf.WriteString("\n\n")
@@ -72,4 +78,16 @@ func main() {
 	if err := ioutil.WriteFile("README.md", newReadme, 0644); nil != err {
 		log.Fatalf("write README.md failed: %s", data)
 	}
+}
+
+func ReadJsonFromFile(url string) (res []blog, err error) {
+	body, err := ioutil.ReadFile(url)
+	if err != nil {
+		return nil, err
+	}
+	err = json.Unmarshal(body, &res)
+	if err != nil {
+		return nil, err
+	}
+	return res, nil
 }

@@ -15,9 +15,14 @@ Currently working on [JUNHSUE](https://www.junhsue.com/) Read [my blog](https://
 
 ### 我的近期动态
 
-⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-07-29 00:01:22`
+
+⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-08-05 19:31:11`
+
 
 📝 *  [sealos 一键安装 kubernetes1.18.0](https://www.fenghong.tech/blog/kubernetes/sealos-install/)
+
+ 
+📝 *  [压力测试stress介绍](https://www.fenghong.tech/blog/tools/stress-testing-by-golang/)
 
  
 📝 *  [kuberbetes traefik简单应用](https://www.fenghong.tech/blog/kubernetes/kubernetes-traefik/)
@@ -30,9 +35,6 @@ Currently working on [JUNHSUE](https://www.junhsue.com/) Read [my blog](https://
 
  
 📝 *  [lvm磁盘在线扩缩容](https://www.fenghong.tech/blog/ops/lvm-reduce-extend/)
-
- 
-📝 *  [阿里云日志方案说明](https://www.fenghong.tech/blog/ops/log-for-aliyun/)
 
  
 

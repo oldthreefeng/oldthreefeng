@@ -15,24 +15,24 @@ Currently working on [JUNHSUE](https://www.junhsue.com/) Read [my blog](https://
 
 ### 我的近期动态
 
-⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-08-07 12:11:55`
+⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-09-01 17:42:39`
 
 📝 *  [sealos 一键安装 kubernetes1.18.0](https://www.fenghong.tech/blog/kubernetes/sealos-install/)
+
+ 
+📝 *  [kubernetes1.18.0部署harborv2.0.2](https://www.fenghong.tech/blog/kubernetes/kubernetes-harbor-nginx-ingress/)
 
  
 📝 *  [压力测试stress介绍](https://www.fenghong.tech/blog/tools/stress-testing-by-golang/)
 
  
-📝 *  [kuberbetes traefik简单应用](https://www.fenghong.tech/blog/kubernetes/kubernetes-traefik/)
+📝 *  [kubernetes traefik简单应用](https://www.fenghong.tech/blog/kubernetes/kubernetes-traefik/)
 
  
 📝 *  [github个人信息展示](https://www.fenghong.tech/blog/technology/github-profile/)
 
  
 📝 *  [kubernetes ingress rewrite配置](https://www.fenghong.tech/blog/kubernetes/kubernetes-ingress-rewrite/)
-
- 
-📝 *  [lvm磁盘在线扩缩容](https://www.fenghong.tech/blog/ops/lvm-reduce-extend/)
 
  
 

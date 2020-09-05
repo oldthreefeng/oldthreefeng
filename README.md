@@ -15,12 +15,12 @@ Currently working on [JUNHSUE](https://www.junhsue.com/) Read [my blog](https://
 
 ### 我的近期动态
 
-⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-09-05 18:03:23`
+⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-09-05 18:46:30`
 
 📝 *  [sealos 一键安装 kubernetes1.18.0](https://www.fenghong.tech/blog/kubernetes/sealos-install/)
 
  
-📝 *  [go实现对slice的去除移除元素](https://www.fenghong.tech/blog/algorithm/go-slice-deduplicate/)
+📝 *  [go实现对slice的去重并移除元素](https://www.fenghong.tech/blog/algorithm/go-slice-deduplicate/)
 
  
 📝 *  [kubernetes1.18.0部署harborv2.0.2](https://www.fenghong.tech/blog/kubernetes/kubernetes-harbor-nginx-ingress/)

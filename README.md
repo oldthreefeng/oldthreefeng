@@ -15,9 +15,12 @@ Currently working on [JUNHSUE](https://www.junhsue.com/) Read [my blog](https://
 
 ### 我的近期动态
 
-⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-09-05 18:46:30`
+⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-09-09 12:06:53`
 
 📝 *  [sealos 一键安装 kubernetes1.18.0](https://www.fenghong.tech/blog/kubernetes/sealos-install/)
+
+ 
+📝 *  [为什么 TCP 建立连接需要三次握手](https://www.fenghong.tech/blog/technology/why-tcp-three-way-hanshake/)
 
  
 📝 *  [go实现对slice的去重并移除元素](https://www.fenghong.tech/blog/algorithm/go-slice-deduplicate/)
@@ -30,9 +33,6 @@ Currently working on [JUNHSUE](https://www.junhsue.com/) Read [my blog](https://
 
  
 📝 *  [kubernetes traefik简单应用](https://www.fenghong.tech/blog/kubernetes/kubernetes-traefik/)
-
- 
-📝 *  [github个人信息展示](https://www.fenghong.tech/blog/technology/github-profile/)
 
  
 

@@ -15,7 +15,7 @@ Currently working on [JUNHSUE](https://www.junhsue.com/) Read [my blog](https://
 
 ### 我的近期动态
 
-⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-09-20 11:08:11`
+⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-09-20 11:18:09`
 
 📝 *  [sealos 一键安装 kubernetes1.18.0](https://www.fenghong.tech/blog/kubernetes/sealos-install/)
 

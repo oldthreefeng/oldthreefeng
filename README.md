@@ -15,9 +15,12 @@ Currently working on [JUNHSUE](https://www.junhsue.com/) Read [my blog](https://
 
 ### 我的近期动态
 
-⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-09-20 10:37:50`
+⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-09-20 11:08:11`
 
 📝 *  [sealos 一键安装 kubernetes1.18.0](https://www.fenghong.tech/blog/kubernetes/sealos-install/)
+
+ 
+📝 *  [sealos etcd及exec子命令使用相关](https://www.fenghong.tech/blog/kubernetes/sealos-etcd-backup-exec/)
 
  
 📝 *  [为什么 TCP 建立连接需要三次握手](https://www.fenghong.tech/blog/technology/why-tcp-three-way-hanshake/)
@@ -30,9 +33,6 @@ Currently working on [JUNHSUE](https://www.junhsue.com/) Read [my blog](https://
 
  
 📝 *  [压力测试stress介绍](https://www.fenghong.tech/blog/tools/stress-testing-by-golang/)
-
- 
-📝 *  [kubernetes traefik简单应用](https://www.fenghong.tech/blog/kubernetes/kubernetes-traefik/)
 
  
 

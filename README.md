@@ -1,4 +1,12 @@
-Currently working on [JUNHSUE](https://www.junhsue.com/) Read [my blog](https://www.fenghong.tech/) or add my WeChat  account：
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ShangHai,  [LunDa](https://www.learnta.com/) 
+- 🌱 I’m currently learning golang,kubernetes
+- 👯 I’m looking to collaborate on [sealos](https://github.com/fanux/sealos), [Dns-Nali](https://github.com/zu1k/nali/pull/16)
+- 💬 Ask me about kubernetes
+- 📫 How to reach me: louisehong@4168@gmail.com or at my [blog](https://www.fenghong.tech/)
+
+Contact Me by adding my WeChat account：
 <div align="center">
   <p>
     

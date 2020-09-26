@@ -23,7 +23,7 @@ Contact Me by adding my WeChat account：
 
 ### 我的近期动态
 
-⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-09-22 13:19:14`
+⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-09-26 19:19:29`
 
 📝 *  [sealos 一键安装 kubernetes1.18.0](https://www.fenghong.tech/blog/kubernetes/sealos-install/)
 
@@ -40,7 +40,7 @@ Contact Me by adding my WeChat account：
 📝 *  [kubernetes1.18.0部署harborv2.0.2](https://www.fenghong.tech/blog/kubernetes/kubernetes-harbor-nginx-ingress/)
 
  
-📝 *  [压力测试stress介绍](https://www.fenghong.tech/blog/tools/stress-testing-by-golang/)
+📝 *  [vpn install](https://www.fenghong.tech/blog/technology/kernel-update/)
 
  
 

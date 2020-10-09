@@ -23,9 +23,15 @@ Contact Me by adding my WeChat account：
 
 ### 我的近期动态
 
-⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-09-29 14:50:13`
+⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-10-09 22:01:13`
 
 📝 *  [sealos 一键安装 kubernetes1.18.0](https://www.fenghong.tech/blog/kubernetes/sealos-install/)
+
+ 
+📝 *  [sealos join master 失败](https://www.fenghong.tech/blog/kubernetes/sealos-join-master/)
+
+ 
+📝 *  [sealos 多网卡安装解决方案](https://www.fenghong.tech/blog/kubernetes/sealos-multi-iface-solution/)
 
  
 📝 *  [sealos etcd及exec子命令使用相关](https://www.fenghong.tech/blog/kubernetes/sealos-etcd-backup-exec/)
@@ -35,12 +41,6 @@ Contact Me by adding my WeChat account：
 
  
 📝 *  [go实现对slice的去重并移除元素](https://www.fenghong.tech/blog/algorithm/go-slice-deduplicate/)
-
- 
-📝 *  [kubernetes1.18.0部署harborv2.0.2](https://www.fenghong.tech/blog/kubernetes/kubernetes-harbor-nginx-ingress/)
-
- 
-📝 *  [kernel update by yum](https://www.fenghong.tech/blog/technology/kernel-update/)
 
  
 

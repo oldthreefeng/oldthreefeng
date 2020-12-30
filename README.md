@@ -23,12 +23,15 @@ Contact Me by adding my WeChat account：
 
 ### 我的近期动态
 
-⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-12-28 21:12:00`
+⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2020-12-30 21:39:48`
 
 📝 *  [一键在arm64架构上部署高可用kubernetes v1.20.0集群](https://www.fenghong.tech/blog/kubernetes/sealos-install-arm64-1.20/)
 
  
 📝 *  [一键在arm64架构上部署高可用kubernetes v1.19.0集群](https://www.fenghong.tech/blog/kubernetes/sealos-install-arm64/)
+
+ 
+📝 *  [记一次nginx使用map后的uri丢失](https://www.fenghong.tech/blog/ops/nginx-map-args/)
 
  
 📝 *  [记一次kubernetes v1.18.7 ingress访问异常问题及解决](https://www.fenghong.tech/blog/kubernetes/kubernetes-ingress-bug-1.18.8/)
@@ -38,9 +41,6 @@ Contact Me by adding my WeChat account：
 
  
 📝 *  [sealos 多网卡安装解决方案](https://www.fenghong.tech/blog/kubernetes/sealos-multi-iface-solution/)
-
- 
-📝 *  [sealos etcd及exec子命令使用相关](https://www.fenghong.tech/blog/kubernetes/sealos-etcd-backup-exec/)
 
  
 

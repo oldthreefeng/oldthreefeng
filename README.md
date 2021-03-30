@@ -23,12 +23,15 @@ Contact Me by adding my WeChat account：
 
 ### 我的近期动态
 
-⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2021-01-30 22:24:17`
+⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2021-03-30 16:22:21`
 
 📝 *  [一键在arm64架构上部署高可用kubernetes v1.20.0集群](https://www.fenghong.tech/blog/kubernetes/sealos-install-arm64-1.20/)
 
  
 📝 *  [一键在arm64架构上部署高可用kubernetes v1.19.0集群](https://www.fenghong.tech/blog/kubernetes/sealos-install-arm64/)
+
+ 
+📝 *  [记一次kubernetes升级1.18.8后的helm相关问题及解决。](https://www.fenghong.tech/blog/kubernetes/kubernetes-1.18-helm-upgrade-error/)
 
  
 📝 *  [k8s中Prometheus监控redis-exporter](https://www.fenghong.tech/blog/kubernetes/kubernetes-prometheus-redis-exporter/)
@@ -38,9 +41,6 @@ Contact Me by adding my WeChat account：
 
  
 📝 *  [记一次nginx使用map后的uri丢失](https://www.fenghong.tech/blog/ops/nginx-map-args/)
-
- 
-📝 *  [记一次kubernetes v1.18.7 ingress访问异常问题及解决](https://www.fenghong.tech/blog/kubernetes/kubernetes-ingress-bug-1.18.8/)
 
  
 

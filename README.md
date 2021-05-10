@@ -23,12 +23,15 @@ Contact Me by adding my WeChat account：
 
 ### 我的近期动态
 
-⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2021-04-15 09:49:21`
+⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2021-05-10 15:03:00`
 
 📝 *  [一键在arm64架构上部署高可用kubernetes v1.20.0集群](https://www.fenghong.tech/blog/kubernetes/sealos-install-arm64-1.20/)
 
  
 📝 *  [一键在arm64架构上部署高可用kubernetes v1.19.0集群](https://www.fenghong.tech/blog/kubernetes/sealos-install-arm64/)
+
+ 
+📝 *  [记一次kubernetes使用hostnetwork网络相关问题及解决。](https://www.fenghong.tech/blog/kubernetes/kubernetes-dns-error-withhostnetwork/)
 
  
 📝 *  [kubernetes 调度策略](https://www.fenghong.tech/blog/kubernetes/kubernetes-taints-tolerations/)
@@ -38,9 +41,6 @@ Contact Me by adding my WeChat account：
 
  
 📝 *  [k8s中Prometheus监控redis-exporter](https://www.fenghong.tech/blog/kubernetes/kubernetes-prometheus-redis-exporter/)
-
- 
-📝 *  [windos使用wls2 并配置vscode golang开发~](https://www.fenghong.tech/blog/tools/windows-wls2-vscode-go/)
 
  
 

@@ -23,7 +23,7 @@ Contact Me by adding my WeChat account：
 
 ### 我的近期动态
 
-⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2021-07-06 18:37:00`
+⭐️ Star [个人主页](https://github.com/oldthreefeng/oldthreefeng) 后会自动更新，最近更新时间：`2021-07-06 19:56:30`
 
 📝 *  [一键在arm64架构上部署高可用kubernetes v1.20.0集群](https://www.fenghong.tech/blog/kubernetes/sealos-install-arm64-1.20/)
 
@@ -34,13 +34,13 @@ Contact Me by adding my WeChat account：
 📝 *  [基于sni使用apisix代理四层TCP/UDP](https://www.fenghong.tech/blog/kubernetes/sni-apisix-tcp/)
 
  
+📝 *  [记一次阿里云arms监控和log-pilot日志系统冲突及解决](https://www.fenghong.tech/blog/go/log-pilot/)
+
+ 
 📝 *  [记一次dcdn加apisix的sni报错。](https://www.fenghong.tech/blog/kubernetes/kubernetes-debug-tls-handshake/)
 
  
 📝 *  [记一次kubernetes使用hostnetwork网络相关问题及解决。](https://www.fenghong.tech/blog/kubernetes/kubernetes-dns-error-withhostnetwork/)
-
- 
-📝 *  [kubernetes 调度策略](https://www.fenghong.tech/blog/kubernetes/kubernetes-taints-tolerations/)
 
  
 
